@@ -1,0 +1,29 @@
+{
+  "name": "entertainme-with-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1",
+    "redis": "^2.7.1",
+    "response-time": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldyadk/entertainme-with-cache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldyadk/entertainme-with-cache/issues"
+  },
+  "homepage": "https://github.com/aldyadk/entertainme-with-cache#readme"
+}
